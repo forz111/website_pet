@@ -1,0 +1,74 @@
+[
+  {
+    "model": "products.product",
+    "pk": 1,
+    "fields": {
+      "name": "?ºôø ¢õ¨ýþóþ ¡òõªð ¸ üþýþó¨ðüüðüø adidas Originals",
+      "description": "? óúð  ªúðý¹ ôû  ¸òøª°þªþò. ?ªøû¹ ø úþü¯þ¨ª Ö ¤ªþ þñ¨ð÷ öø÷ýø.",
+      "price": "6090.00",
+      "quantity": 10,
+      "image": "products_images/Adidas-hoodie.png",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 2,
+    "fields": {
+      "name": "?øý   úº¨ªúð The North Face",
+      "description": "?ûðôúð  ªúðý¹. ?þôþýõÿ¨þýø¡ðõüþõ ÿþú¨?ªøõ. ?õóúøù ø ªõÿû?ù ÿº¿þò?ù ýðÿþûýøªõû¹.",
+      "price": "23725.00",
+      "quantity": 5,
+      "image": "products_images/Blue-jacket-The-North-Face.png",
+      "category": 5
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 3,
+    "fields": {
+      "name": "?þ¨ø¢ýõò?ù ¸ÿþ¨ªøòý?ù oversized-ªþÿ ASOS DESIGN",
+      "description": "?ðªõ¨øðû ¸ ÿû?°õòþù ªõú¸ªº¨þù. ?ôþñý?ù ø ü óúøù.",
+      "price": "3390.00",
+      "quantity": 7,
+      "image": "products_images/Brown-sports-oversized-top-ASOS-DESIGN.png",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 4,
+    "fields": {
+      "name": "?õ¨ý?ù ¨?ú÷ðú Nike Heritage",
+      "description": "?ûþªýð  ªúðý¹. ?õóúøù üðªõ¨øðû.",
+      "price": "2340.00",
+      "quantity": 9,
+      "image": "products_images/Black-Nike-Heritage-backpack_IxD10tF.png",
+      "category": 4
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 5,
+    "fields": {
+      "name": "?õ¨ý?õ ªº¯ûø ýð ÿûðª¯þ¨üõ ¸ 3 ÿð¨ðüø û?òõ¨¸þò Dr Martens 1461 Bex",
+      "description": "?ûðôúøù úþöðý?ù òõ¨¿. ?ðªº¨ðû¹ý?ù üðªõ¨øðû.",
+      "price": "13590.00",
+      "quantity": 4,
+      "image": "products_images/Black-Dr-Martens-shoes.png",
+      "category": 2
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 6,
+    "fields": {
+      "name": "?õüýþ-¸øýøõ °ø¨þúøõ ¸ª¨þóøõ ñ¨?úø ASOS DESIGN",
+      "description": "?õóúð  ¤ûð¸ªø¢ýð  ªúðý¹ ¸ø¨¸ðúõ¨ ?ðúªº¨ýð  ªúðý¹.",
+      "price": "2890.00",
+      "quantity": 2,
+      "image": "products_images/Dark-blue-wide-leg-ASOs-DESIGN-trousers.png",
+      "category": 1
+    }
+  }
+]
