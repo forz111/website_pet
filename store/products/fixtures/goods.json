@@ -3,8 +3,8 @@
     "model": "products.product",
     "pk": 1,
     "fields": {
-      "name": "?ºôø ¢õ¨ışóş ¡òõªğ ¸ üşışó¨ğüüğüø adidas Originals",
-      "description": "? óúğ  ªúğı¹ ôû  ¸òøª°şªşò. ?ªøû¹ ø úşü¯ş¨ª Ö ¤ªş şñ¨ğ÷ öø÷ıø.",
+      "name": "Ğ¥ÑƒĞ´Ğ¸ Ñ‡ĞµÑ€Ğ½Ğ¾Ğ³Ğ¾ Ñ†Ğ²ĞµÑ‚Ğ° Ñ Ğ¼Ğ¾Ğ½Ğ¾Ğ³Ñ€Ğ°Ğ¼Ğ¼Ğ°Ğ¼Ğ¸ adidas Originals",
+      "description": "ĞœÑĞ³ĞºĞ°Ñ Ñ‚ĞºĞ°Ğ½ÑŒ Ğ´Ğ»Ñ ÑĞ²Ğ¸Ñ‚ÑˆĞ¾Ñ‚Ğ¾Ğ². Ğ¡Ñ‚Ğ¸Ğ»ÑŒ Ğ¸ ĞºĞ¾Ğ¼Ñ„Ğ¾Ñ€Ñ‚ â€“ ÑÑ‚Ğ¾ Ğ¾Ğ±Ñ€Ğ°Ğ· Ğ¶Ğ¸Ğ·Ğ½Ğ¸.",
       "price": "6090.00",
       "quantity": 10,
       "image": "products_images/Adidas-hoodie.png",
@@ -15,22 +15,22 @@
     "model": "products.product",
     "pk": 2,
     "fields": {
-      "name": "?øı   úº¨ªúğ The North Face",
-      "description": "?ûğôúğ  ªúğı¹. ?şôşıõÿ¨şıø¡ğõüşõ ÿşú¨?ªøõ. ?õóúøù ø ªõÿû?ù ÿº¿şò?ù ığÿşûıøªõû¹.",
+      "name": "Ğ¡Ğ¸Ğ½ÑÑ ĞºÑƒÑ€Ñ‚ĞºĞ° The North Face",
+      "description": "Ğ“Ğ»Ğ°Ğ´ĞºĞ°Ñ Ñ‚ĞºĞ°Ğ½ÑŒ. Ğ’Ğ¾Ğ´Ğ¾Ğ½ĞµĞ¿Ñ€Ğ¾Ğ½Ğ¸Ñ†Ğ°ĞµĞ¼Ğ¾Ğµ Ğ¿Ğ¾ĞºÑ€Ñ‹Ñ‚Ğ¸Ğµ. Ğ›ĞµĞ³ĞºĞ¸Ğ¹ Ğ¸ Ñ‚ĞµĞ¿Ğ»Ñ‹Ğ¹ Ğ¿ÑƒÑ…Ğ¾Ğ²Ñ‹Ğ¹ Ğ½Ğ°Ğ¿Ğ¾Ğ»Ğ½Ğ¸Ñ‚ĞµĞ»ÑŒ.",
       "price": "23725.00",
-      "quantity": 5,
+      "quantity": 15,
       "image": "products_images/Blue-jacket-The-North-Face.png",
-      "category": 5
+      "category": 2
     }
   },
   {
     "model": "products.product",
     "pk": 3,
     "fields": {
-      "name": "?ş¨ø¢ıõò?ù ¸ÿş¨ªøòı?ù oversized-ªşÿ ASOS DESIGN",
-      "description": "?ğªõ¨øğû ¸ ÿû?°õòşù ªõú¸ªº¨şù. ?ôşñı?ù ø ü óúøù.",
+      "name": "ĞšĞ¾Ñ€Ğ¸Ñ‡Ğ½ĞµĞ²Ñ‹Ğ¹ ÑĞ¿Ğ¾Ñ€Ñ‚Ğ¸Ğ²Ğ½Ñ‹Ğ¹ oversized-Ñ‚Ğ¾Ğ¿ ASOS DESIGN",
+      "description": "ĞœĞ°Ñ‚ĞµÑ€Ğ¸Ğ°Ğ» Ñ Ğ¿Ğ»ÑÑˆĞµĞ²Ğ¾Ğ¹ Ñ‚ĞµĞºÑÑ‚ÑƒÑ€Ğ¾Ğ¹. Ğ£Ğ´Ğ¾Ğ±Ğ½Ñ‹Ğ¹ Ğ¸ Ğ¼ÑĞ³ĞºĞ¸Ğ¹.",
       "price": "3390.00",
-      "quantity": 7,
+      "quantity": 20,
       "image": "products_images/Brown-sports-oversized-top-ASOS-DESIGN.png",
       "category": 1
     }
@@ -39,11 +39,11 @@
     "model": "products.product",
     "pk": 4,
     "fields": {
-      "name": "?õ¨ı?ù ¨?ú÷ğú Nike Heritage",
-      "description": "?ûşªığ  ªúğı¹. ?õóúøù üğªõ¨øğû.",
+      "name": "Ğ§ĞµÑ€Ğ½Ñ‹Ğ¹ Ñ€ÑĞºĞ·Ğ°Ğº Nike Heritage",
+      "description": "ĞŸĞ»Ğ¾Ñ‚Ğ½Ğ°Ñ Ñ‚ĞºĞ°Ğ½ÑŒ. Ğ›ĞµĞ³ĞºĞ¸Ğ¹ Ğ¼Ğ°Ñ‚ĞµÑ€Ğ¸Ğ°Ğ».",
       "price": "2340.00",
-      "quantity": 9,
-      "image": "products_images/Black-Nike-Heritage-backpack_IxD10tF.png",
+      "quantity": 5,
+      "image": "products_images/Black-Nike-Heritage-backpack.png",
       "category": 4
     }
   },
@@ -51,24 +51,24 @@
     "model": "products.product",
     "pk": 5,
     "fields": {
-      "name": "?õ¨ı?õ ªº¯ûø ığ ÿûğª¯ş¨üõ ¸ 3 ÿğ¨ğüø û?òõ¨¸şò Dr Martens 1461 Bex",
-      "description": "?ûğôúøù úşöğı?ù òõ¨¿. ?ğªº¨ğû¹ı?ù üğªõ¨øğû.",
+      "name": "Ğ§ĞµÑ€Ğ½Ñ‹Ğµ Ñ‚ÑƒÑ„Ğ»Ğ¸ Ğ½Ğ° Ğ¿Ğ»Ğ°Ñ‚Ñ„Ğ¾Ñ€Ğ¼Ğµ Ñ 3 Ğ¿Ğ°Ñ€Ğ°Ğ¼Ğ¸ Ğ»ÑĞ²ĞµÑ€ÑĞ¾Ğ² Dr Martens 1461 Bex",
+      "description": "Ğ“Ğ»Ğ°Ğ´ĞºĞ¸Ğ¹ ĞºĞ¾Ğ¶Ğ°Ğ½Ñ‹Ğ¹ Ğ²ĞµÑ€Ñ…. ĞĞ°Ñ‚ÑƒÑ€Ğ°Ğ»ÑŒĞ½Ñ‹Ğ¹ Ğ¼Ğ°Ñ‚ĞµÑ€Ğ¸Ğ°Ğ».",
       "price": "13590.00",
-      "quantity": 4,
+      "quantity": 12,
       "image": "products_images/Black-Dr-Martens-shoes.png",
-      "category": 2
+      "category": 3
     }
   },
   {
     "model": "products.product",
     "pk": 6,
     "fields": {
-      "name": "?õüış-¸øıøõ °ø¨şúøõ ¸ª¨şóøõ ñ¨?úø ASOS DESIGN",
-      "description": "?õóúğ  ¤ûğ¸ªø¢ığ  ªúğı¹ ¸ø¨¸ğúõ¨ ?ğúªº¨ığ  ªúğı¹.",
+      "name": "Ğ¢ĞµĞ¼Ğ½Ğ¾-ÑĞ¸Ğ½Ğ¸Ğµ ÑˆĞ¸Ñ€Ğ¾ĞºĞ¸Ğµ ÑÑ‚Ñ€Ğ¾Ğ³Ğ¸Ğµ Ğ±Ñ€ÑĞºĞ¸ ASOS DESIGN",
+      "description": "Ğ›ĞµĞ³ĞºĞ°Ñ ÑĞ»Ğ°ÑÑ‚Ğ¸Ñ‡Ğ½Ğ°Ñ Ñ‚ĞºĞ°Ğ½ÑŒ ÑĞ¸Ñ€ÑĞ°ĞºĞµÑ€ Ğ¤Ğ°ĞºÑ‚ÑƒÑ€Ğ½Ğ°Ñ Ñ‚ĞºĞ°Ğ½ÑŒ.",
       "price": "2890.00",
-      "quantity": 2,
+      "quantity": 25,
       "image": "products_images/Dark-blue-wide-leg-ASOs-DESIGN-trousers.png",
-      "category": 1
+      "category": 2
     }
   }
 ]
